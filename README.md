@@ -1,4 +1,4 @@
-Speech-Text-Converter is very helpful for converting audio files or the audio that is not in a understandable manner into text.This cann be achieved using python .
+Speech-Text-Converter is very helpful for converting audio files or the audio that is not in a understandable manner into text.This can be achieved using python .
 
 
 
